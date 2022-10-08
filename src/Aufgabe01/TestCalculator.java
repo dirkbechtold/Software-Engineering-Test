@@ -31,7 +31,6 @@ public class TestCalculator {
 
             double second = scanner.nextDouble();
 
-            double result = 0;
 
             if (operation == 0) {
                 System.out.println(first + second);
